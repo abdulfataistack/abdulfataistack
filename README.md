@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @abdulfataistack
+- 👀 I’m interested in  Fullstack development
+- 🌱 I’m currently learning Fullstack
